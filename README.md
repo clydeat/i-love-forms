@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Salut moussaillon tu vas bien?
+Ici il y a un site i-love-forms.
 
-Things you may want to cover:
+check it here:
+https://i-love-forms-clydeat.herokuapp.com/
 
-* Ruby version
+Télécharge ou clone le repo.
+Place toi dans le dossier correspondant et lance un bundle install.
+un rails db:create db:migrate.
 
-* System dependencies
+Bon appétit!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bon THP à toi moussaillon!
