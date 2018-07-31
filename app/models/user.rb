@@ -4,5 +4,5 @@ class User < ApplicationRecord
 
 	validates :bio, presence: true
 
-	validates :email, presence: true, email: true, uniqueness:true
+	validates :email, presence: true, uniqueness: true
 end
